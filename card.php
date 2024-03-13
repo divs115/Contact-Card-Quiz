@@ -13,7 +13,7 @@
     
   <body>
    
-      <div class="card my-5 mx-5" style="width:50%">
+      <div class="card my-5 mx-5" style="width:500px">
         <div>
           <div id="carouselBars" class="carousel slide">
       <div class="carousel-indicators">
@@ -23,14 +23,9 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="https://static.vecteezy.com/system/resources/previews/023/506/852/non_2x/cute-kawaii-mushroom-chibi-mascot-cartoon-style-vector.jpg" style="width:500px; height:500px" alt="...">
+          <img src="https://raw.githubusercontent.com/divs115/Contact-Card-Quiz/master/assets/axelotl.jpg" style="width:500px; height:500px" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6iTAtlopog7qRqLKpz8gdWw2VGsH8CwBig&usqp=CAU" style="object-fit: fill; width:100%; height:100%" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="https://cdn.logojoy.com/wp-content/uploads/20201123155850/AdobeStock_282626396-min-1024x576.jpeg" style="object-fit: fill; width:100%; height:100%" alt="...">
-        </div>
+        
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselBars" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
